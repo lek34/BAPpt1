@@ -9,7 +9,7 @@
                 Nama
             </div>
             <div class="col-9">
-                : Jacky Angelo
+                : Jefferson Luckianto
             </div>
         </div>
         <div class="row bold-font">
@@ -25,7 +25,7 @@
                 Alamat
             </div>
             <div class="col-9">
-                : Perumahan EcoPark No.138B
+                : Jalan asia 34c 
             </div>
         </div>
         <div class="row bold-font">
@@ -33,7 +33,7 @@
                 Tempat/Tanggal Lahir
             </div>
             <div class="col-9">
-                : Medan, 24 Desember 2002
+                : Medan, 14 Maret 2003
             </div>
         </div>
         <div class="row bold-font">
@@ -41,7 +41,7 @@
                 NIM
             </div>
             <div class="col-9">
-                : 03081210013
+                : 03081210033
             </div>
         </div>
         <div class="row bold-font">

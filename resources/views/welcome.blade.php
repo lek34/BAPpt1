@@ -20,7 +20,7 @@
         <div style="text-align: center; margin-top: 100px">
             <p style="font-size: 48px">Selamat Datang</p>
             <p style="font-size: 48px">di Website</p>
-            <p style="font-size: 72px">JACKY ANGELO</p>
+            <p style="font-size: 72px">JEFFERSON LUCKIANTO</p>
             <div>
                 <a href="Profil">Lihat Profil</a>
             </div>
